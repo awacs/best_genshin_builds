@@ -1,0 +1,66 @@
+Arlecchino – Not the best, but extremely versatile
+
+You cannot use her in teams that require consistent healing, as she cannot be healed by teammates during combat due to her Bond of Life mechanics.
+
+Right now, she is one of the most versatile Pyro DPS units we have. In this game, when we get versatility, we lose DPS; the stricter the requirements, the higher the damage.
+
+Because of that, she has A LOT of teams, but they won't all be meta. However, you will end up using them often because she can still be used in many places since she is the strongest Pyro DPS without any major restrictions (for example, Mavuika and Natlan mechanics).
+
+This means you can run any Pyro team and she will work. It just depends on what you need right now: Overload? Vape? Melt? She can do it.
+
+...I think I don’t need to say this, but she is bad with Burgeon... yeah, don't do that.
+
+She can work even in Mono Pyro teams in extreme cases where you need heavy Pyro application and good damage.
+
+With all of that said, her Meta pull value is not great since we have Mavuika, but if you really like her and want a good Overload carry, she can provide that.
+
+---
+
+Talent Priority
+
+Normal Attack > Skill > Burst
+
+ONLY If you have C6:
+Normal Attack > Burst >> Skill
+
+In most cases, bursting is DPS negative, so do not use it before C6 unless you need healing.
+
+---
+
+Artifact Sets
+
+4 Pcs Fragment of Harmonic Whimsy: Her definitive Best-in-Slot for any team.
+4 Pcs Gladiator’s Finale: A very close second if you already have good pieces.
+4 Pcs Gilded Dreams: Only for Vaporize/Burgeon teams.
+2 Pcs ATK / 2 Pcs Pyro: Use only as a placeholder.
+
+---
+
+### Artifact Stats
+
+ATK | Pyro | Crit
+
+Substat Priority: Crit > ATK% > EM (EM is only for Vape/Melt; in Overload, it’s not great but not a wasted stat).
+ER Reqs: Not needed; don't build ER on her.
+
+---
+
+### Weapons
+
+1. Crimson Moon’s Semblance: Signature and miles ahead due to the Bond of Life mechanic.
+2. Staff of Homa / Primordial Jade Winged-Spear: (10-12% worse) Great stat sticks.
+3. Deathmatch R1-R5 / Staff of the Scarlet Sands: Solid 4-star and 5-star alternatives.
+4. White Tassel R5: (20% worse) The best F2P option; unironically competitive.
+
+---
+
+Team Comps
+
+She can replace almost any Pyro carry in existing cores. Unless you mess up her rotation, she will end up doing more damage than almost any other Pyro DPS.
+
+
+1. Overload: Arlecchino, Chevreuse, Fischl, Durin/Iansan
+2. Melt: Arlecchino, Citlali, Xilonem, Bennett
+3. Vaporize: Arlecchino, Yelan/Xingqiu, Kazuha/Zhongli/Xilonem, Bennett
+4. Mono Pyro: Arlecchino, Bennett, Durin, Xilonem/Kazuha/Shielder
+
