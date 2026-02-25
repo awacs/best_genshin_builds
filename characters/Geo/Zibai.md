@@ -1,5 +1,3 @@
-Zibai pre-release meta analysis
-
 Bro she is probably the easiest T0 character to play in the game lmao
 
 Her DPS is higher than Flins and Neffer granted you have C6 Iiluga and Columbina.
@@ -37,3 +35,4 @@ Team Comps
 2. Zibai, C6 Iiluga, Columbina, C2 Xilonen / Chiori (Still no healing)
 3. Zibai, C6 Iiluga, Columbina, Zhongli (HoD uptime and sustain)
 You can replace Columbina with C6 Aino and you would lose about 30% team DPS.
+
